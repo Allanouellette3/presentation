@@ -25,6 +25,8 @@
 ## 7. Aller sur *layer, *new fill layer, *pattern choisir le pattern ,ensuite au dessus des couches où c’est écrit normal nous voulons *overlay et le mettre à environ 20% d’opacité.
 <img/> ![motif_eau](https://user-images.githubusercontent.com/93718420/142439824-bb8b5a49-f68c-4267-8b05-3f72f5470f04.png)
 <img/>![motif_menu](https://user-images.githubusercontent.com/93718420/142440091-e4f86b27-aeda-4abd-8420-63a149dae603.png)
+<img/>![opacite](https://user-images.githubusercontent.com/93718420/142443365-9780aadc-2e80-461c-922b-7a2f5b24439a.png)
+
 
 ## résultat final,voilà!!!
 <img/>![résultat_final](https://user-images.githubusercontent.com/93718420/142440335-74cfe4e0-05a6-4930-a5e4-b2112ca2f1d2.png)
